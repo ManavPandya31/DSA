@@ -1,5 +1,9 @@
+        //Loops
+
 #include<iostream>
 using namespace std;
+
+// sum Of 1 To 6
 
 int main(){
 
