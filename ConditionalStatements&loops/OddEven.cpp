@@ -16,4 +16,5 @@ int main(){
 
         cout << "Number Is Odd.";
     }
+    return 0;
 }

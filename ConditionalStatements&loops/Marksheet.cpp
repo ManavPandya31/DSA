@@ -33,4 +33,6 @@ int main(){
         cout << "Fail";
     }
 
+    return 0;
+
 }

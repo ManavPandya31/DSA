@@ -18,4 +18,5 @@ int main(){
         cout << "Uppercase ";
 
     }
+    return 0;
 }
