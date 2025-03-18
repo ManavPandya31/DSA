@@ -11,7 +11,6 @@ int main(){
 
         if (i%2 != 0){
             sum += i;
-
         }
     }
     cout << sum << endl;
