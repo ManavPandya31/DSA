@@ -15,7 +15,7 @@ int BinarySearch(int arr[] , int n , int key  ){
 
         }
 
-        if (arr[mid] < key){ //If Key In Right Side
+       else if (arr[mid] < key){ //If Key In Right Side
             low = mid + 1;
 
         }
