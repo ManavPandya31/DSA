@@ -23,7 +23,7 @@ int BinarySearch(int arr[] , int n , int key  ){
         }
 
         else{
-            high = mid - 1; // If key In Lest Side
+            high = mid - 1; // If key In Left Side
 
         }
     }
